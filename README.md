@@ -16,9 +16,8 @@
 
 - Programming Languages: Dart, Kotlin, Java
 - Mobile Development: Android SDK, Flutter
-- Version Control: Git, GitHub
-- UI/UX Design: Figma, Adobe XD
-- Agile Methodologies: Scrum, Kanban
+- Version Control: Git, GitHub, Gitlab
+- UI/UX Design: Figma
 
 
 ## Get in Touch
